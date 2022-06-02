@@ -1,0 +1,33 @@
+import machine
+import utime
+import urandom
+import _thread
+
+led = machine.Pin(25, machine.Pin.OUT)
+#sensor_temp = machine.ADC(4)
+a =1
+
+def startblink():
+	while True:
+		utime.sleep(urandom.uniform(1, 25)/25)
+		led.toggle()
+
+def freqv(value):
+	led2 = machine.PWD(25)
+	led2.freq(value)
+
+def countforever():
+	global a
+	while True:
+		a += 1
+		led.toggle()
+
+#_thread.start_new_thread(startblink, ())
+_thread.start_new_thread(countforever, ())
+#_thread.start_new_thread(freqv, ())
+utime.sleep(1)
+print(a)
+while True:
+	utime.sleep(1)
+	print(a)
+#(1.8 * (27 - ((sensor_temp.read_u16() *(3.3 / (65535))) - .706)/.011721)) +32
