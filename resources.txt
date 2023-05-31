@@ -4,4 +4,4 @@ pico videos:
 
 ---------
 Sample and Tests: Blog
-pico blogs
+pico blogs : none currently
