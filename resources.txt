@@ -1,5 +1,18 @@
 Sample and Tests: YouTube
 pico videos:
+Raspberry pi short :
+Micropython wih RShell : https://www.youtube.com/watch?v=oTTfTVpSeGI
+Updatng CMake : https://www.youtube.com/watch?v=fOtYHDGSgZo
+Install Pico SDK (C/C++): https://www.youtube.com/watch?v=Nv8zo_USaSQ
+Soldering Pin Header : https://www.youtube.com/watch?v=GU4i4GsQsIo
+Micropython -- DS18B20 1M : https://www.youtube.com/watch?v=PF_F96LX5w8
+Micropython -- 74HC595 : https://www.youtube.com/watch?v=ytuaEeTdbgI
+Micropython - converting floatng point numbers: https://www.youtube.com/watch?v=0wQv63j-Lys
+Micropython - temperature probe completion : https://www.youtube.com/watch?v=aqYF5tNFST0
+Micropython - Bricked (deleted files) : https://www.youtube.com/watch?v=wCMJaAg-owo
+Schematic design : https://www.youtube.com/watch?v=PH44e2ZLyhs
+Micropython - Bricked (files Saved) : https://www.youtube.com/watch?v=RTXUl8lk1QE
+C/C++ -- DS18B20 1M : https://www.youtube.com/watch?v=1vxrf6v4dRc 
 
 
 ---------
