@@ -1,6 +1,16 @@
 Sample and Tests: YouTube
-pico videos:
-Raspberry pi short :
+
+Pico videos:
+Raspberry pi pico shorts :
+Inital short (pico) : https://www.youtube.com/shorts/A6IFsDK65OY
+Field test : https://www.youtube.com/shorts/52JApjRd4kk
+Batterry test : https://www.youtube.com/shorts/qUQVSgwFP38 
+Pico W short: https://www.youtube.com/shorts/G4PLXKnHz-0
+Live stream time check : https://www.youtube.com/shorts/9G3RdPqUzPY
+
+
+
+Long form videos (vod):
 Micropython wih RShell : https://www.youtube.com/watch?v=oTTfTVpSeGI
 Updatng CMake : https://www.youtube.com/watch?v=fOtYHDGSgZo
 Install Pico SDK (C/C++): https://www.youtube.com/watch?v=Nv8zo_USaSQ
@@ -20,6 +30,8 @@ Correctng wiring of DS18B20 : https://www.youtube.com/watch?v=cLhsJF8-oGU
 Replacing DS18B20 : https://www.youtube.com/watch?v=Fvb2wzcw7FU
 Fixing battery box issues : https://www.youtube.com/watch?v=yHV1DH8S6sg
 Checking Current draw : https://www.youtube.com/watch?v=4qH3SecEqyw
+
+Pico Live Streams:
 
 
 
