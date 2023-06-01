@@ -13,6 +13,14 @@ Micropython - Bricked (deleted files) : https://www.youtube.com/watch?v=wCMJaAg-
 Schematic design : https://www.youtube.com/watch?v=PH44e2ZLyhs
 Micropython - Bricked (files Saved) : https://www.youtube.com/watch?v=RTXUl8lk1QE
 C/C++ -- DS18B20 1M : https://www.youtube.com/watch?v=1vxrf6v4dRc 
+How to desolder : https://www.youtube.com/watch?v=9uhL3FvkJ4A
+Testing Solder joints : https://www.youtube.com/watch?v=RmQu26aNruQ
+Wire wrapping : https://www.youtube.com/watch?v=0kOtyfAqU1s
+Correctng wiring of DS18B20 : https://www.youtube.com/watch?v=cLhsJF8-oGU
+Replacing DS18B20 : https://www.youtube.com/watch?v=Fvb2wzcw7FU
+Fixing battery box issues : https://www.youtube.com/watch?v=yHV1DH8S6sg
+Checking Current draw : https://www.youtube.com/watch?v=4qH3SecEqyw
+
 
 
 ---------
